@@ -260,7 +260,7 @@
         }
 
         .n8n-chat-widget .chat-footer a {
-            color: var(--chat--color-primary);
+            color: #000000;
             text-decoration: none;
             font-size: 12px;
             opacity: 0.8;
